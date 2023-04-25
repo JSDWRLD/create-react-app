@@ -1,1 +1,1 @@
-# create-react-app
+# Project has stopped. If you like the source code, please check its history
